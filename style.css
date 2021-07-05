@@ -43,8 +43,9 @@
 #quote-box {
   border-radius: 3px;
   position: relative;
-  padding: 40px 50px;
-  display: table;
+  padding: 50px;
+  margin: 100px;
+  display: block;
 }
 .mycolor {
   animation: myanimation 10s infinite;
